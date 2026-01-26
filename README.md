@@ -1,9 +1,12 @@
 # Welcome to the Intent Alliance
 
-![Banner](https://via.placeholder.com/1200x300?text=Connecting+Intelligence+to+Action)
-*(建议替换为您生成的 Intent Alliance Logo)*
+<div align="center">
+  <img width="512" height="256" alt="intentalliance_logo" src="https://github.com/user-attachments/assets/9f8bde99-87e8-4a56-ab7b-efdd43b9fd54" />
+</div>
 
-> **The Intent Alliance is a non-profit consortium dedicated to building the Open Intent Protocol (OIP).**
+<div align="center">
+    <strong>The Intent Alliance is a non-profit consortium dedicated to building the Open Intent Protocol (OIP).</strong>
+</div>
 
 We are building the standard infrastructure for the Agentic Era, enabling AI agents to interact with any application through a secure, privacy-first, and intent-based protocol.
 
