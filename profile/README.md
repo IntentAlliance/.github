@@ -80,7 +80,7 @@ We believe that **every API deserves to be an Agent**. To make this happen, we p
 | :--- | :--- | :--- |
 | **[oip-spec](https://github.com/IntentAlliance/oip-spec)** | The official specification of Open Intent Protocol. | 🟢 Active |
 | **[intent-kit-flutter](https://github.com/IntentAlliance/intent-kit-flutter)** | Reference SDK for mobile developers. | 🟡 In Dev |
-| **[oipia_client](https://github.com/IntentAlliance/oipia_client)** | (Open Intent Protocol Intelligent Agent) is the first consumer interface built on OIP.| 🔵 Planning |
+| **[oipia-client](https://github.com/IntentAlliance/oipia-client)** | (Open Intent Protocol Intelligent Agent) is the first consumer interface built on OIP.| 🔵 Planning |
 
 ### 🌐 Join the Community
 
