@@ -31,7 +31,7 @@ OIP is a JSON-based manifest standard (`oip.json`) that allows any web service t
 * **Execution:** How Agents call your API with user parameters.
 * **Attribution:** How value distribution and affiliate commissions are tracked.
 
-👉 **[Read the Spec](https://github.com/IntentAlliance/oip-spec)**
+👉 **[Read the Spec](https://github.com/oipia/oip-spec)**
 
 ### 2. The Reference Client: Oipia
 > *The Browser for the Agent Era.*
@@ -41,7 +41,7 @@ OIP is a JSON-based manifest standard (`oip.json`) that allows any web service t
 * **Local Vault:** A secure, hardware-backed storage for your API keys (GitHub, OpenAI, Spotify, etc.). **Your keys never leave your phone.**
 * **Super App Experience:** One interface to control thousands of services.
 
-👉 **[View Oipia Client Code](https://github.com/IntentAlliance/oipia-client)**
+👉 **[View Oipia Client Code](https://github.com/oipia/oipia-client)**
 
 ## 🧩 Architecture
 
@@ -56,11 +56,11 @@ We champion a **"Local Brain, Global Hands"** architecture to protect user priva
 We believe that **every API deserves to be an Agent**. To make this happen, we provide official SDKs to help you adapt your existing services to OIP in minutes.
 
 ### 🚀 Core SDKs
-* **Python:** [`oip-python`](#) (Coming Soon)
+* **Python:** [`oipia-python`](#) (Coming Soon)
     * *Decorator-based:* Add `@oip_action` to your FastAPI/Flask routes to auto-generate `oip.json`.
 * **Node.js / TypeScript:** [`@intentalliance/sdk`](#) (Coming Soon)
     * *Middleware:* Automatically serve the manifest and validate Oipia signatures in Express/NestJS.
-* **Go:** [`go-oip`](#) (Coming Soon)
+* **Go:** [`oipia-go`](#) (Coming Soon)
     * *Struct Tags:* Define intent capabilities directly in your Go structs.
 
 ### 🔐 Security & Auth
@@ -78,9 +78,9 @@ We believe that **every API deserves to be an Agent**. To make this happen, we p
 
 | Project | Description | Status |
 | :--- | :--- | :--- |
-| **[oip-spec](https://github.com/IntentAlliance/oip-spec)** | The official specification of Open Intent Protocol. | 🟢 Active |
-| **[intent-kit-flutter](https://github.com/IntentAlliance/intent-kit-flutter)** | Reference SDK for mobile developers. | 🟡 In Dev |
-| **[oipia-client](https://github.com/IntentAlliance/oipia-client)** | (Open Intent Protocol Intelligent Agent) is the first consumer interface built on OIP.| 🔵 Planning |
+| **[oip-spec](https://github.com/oipia/oip-spec)** | The official specification of Open Intent Protocol. | 🟢 Active |
+| **[intent-kit-flutter](https://github.com/oipia/intent-kit-flutter)** | Reference SDK for mobile developers. | 🟡 In Dev |
+| **[oipia-client](https://github.com/oipia/oipia-client)** | (Open Intent Protocol Intelligent Agent) is the first consumer interface built on OIP.| 🔵 Planning |
 
 ### 🌐 Join the Community
 
